@@ -1,4 +1,4 @@
-# [Note Taking App]()
+# [Note Taking App](http://fazeelanizam.com/notes/)
 
 <p align="center">
 <img src="sc.png" width="75%" />
